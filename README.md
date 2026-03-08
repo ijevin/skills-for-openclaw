@@ -11,6 +11,7 @@
 | 技能 | 描述 |
 |------|------|
 | [skills/ppt-generator](./skills/ppt-generator/) | 智能PPT生成器 |
+| [skills/safe-edit](./skills/safe-edit/) | 安全配置修改辅助技能 - 防止 OpenClaw 自己把自己改崩溃 |
 
 ---
 
